@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nourhene Jallali</h1>
-<h3 align="center">A passionate DevOps Engineer from Tunisia</h3>
+<h3 align="center">An ICT Engineer from Tunisia</h3>
 
-- 🌱 I’m currently learning **aws**
+- 🌱 I’m currently learning **AWS and Azure**
 
 - 📝 I regularly write articles on [https://medium.com/@nourhene2002](https://medium.com/@nourhene2002)
 
-- 💬 Ask me about **Python, Docker, Linux, Kubernetes**
+- 💬 Ask me about **Python, Docker, Linux, Kubernetes,Jenkins and Bash**
 
-- 📫 How to reach me **nourhene.jallali@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/nourhen-jallali/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nourhen-jallali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nourhen-jallali/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
