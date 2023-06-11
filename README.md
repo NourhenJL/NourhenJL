@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nourhene Jallali</h1>
 <h3 align="center">An ICT Engineer from Tunisia</h3>
 
-- 🌱 I’m always learning about Cloud and DevOps field
+- 🌱 I’m always looking for new things to learn about the Cloud and DevOps
 
 - 📝 I regularly write articles on [https://medium.com/@nourhene2002](https://medium.com/@nourhene2002)
 
