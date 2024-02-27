@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Docker, Linux, Kubernetes,Jenkins and Bash**
 
-- 📫 How to reach me **nourhene.jallali@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
