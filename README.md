@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nourhene Jallali</h1>
-<h3 align="center">An ICT Engineer from Tunisia</h3>
+<h1 align="center">Hi 👋, I'm Nourhene </h1>
+<h3 align="center">A software Engineer</h3>
 
 - 🌱 I’m always looking for new things to learn about the Cloud and DevOps
 
 - 📝 I regularly write articles on [https://medium.com/@nourhene2002](https://medium.com/@nourhene2002)
 
-- 💬 Ask me about **Python, Docker, Linux, Kubernetes,Jenkins and Bash**
+- 💬 Ask me about **Python, Docker, Linux, Kubernetes, Jenkins and Bash**
 
 
 
